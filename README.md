@@ -1,9 +1,9 @@
 # Java解析DBF文件
 java读取dbf解决Failed to parse Number: For input string: "-.---"错误,最近要做一个程序，数据源是DBF的文件，我用Java解析它，maven导入
 <br/>&lt;dependency>
-  <br/>&lt;groupId>com.linuxense</groupId>
-   <br/>&lt;artifactId>javadbf</artifactId>
-  <br/> &lt;version>0.4.0</version>
+  <br/>&lt;groupId>com.linuxense&lt;/groupId>
+   <br/>&lt;artifactId>javadbf&lt;/artifactId>
+  <br/> &lt;version>0.4.0&lt;/version>
 <br/>&lt;/dependency>
 <br/>这个是最新的，读取从某公司获取的数据出现Failed to parse Number: For input string: "-.---" ，
 （注：以下来源于网络）
